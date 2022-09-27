@@ -31,5 +31,5 @@ equal.addEventListener('click', function (e) {
     
 
     del.addEventListener('click',function (e) {
-        screen.value -= number
+        screen.value = screen.value.slice(0,-1);
     })
