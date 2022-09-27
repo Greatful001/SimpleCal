@@ -32,6 +32,7 @@ form input{
     pointer-events: none;
     border-radius: 6px;
     font-size: 1.5rem;
+    border: 2px solid #ffffff;
 
 
 
@@ -63,7 +64,7 @@ form input{
 }
 .clear-btn{
     color: #ffff;
-    background: #0000ff;
+    background: #00008b;
     width: 200px;
 
 }
@@ -74,7 +75,7 @@ form input{
 
 }
 . del-btn{
-    background:#0000ff;
+    background:#00008b;
     color: #ffffff;
     width: 60px;
 } 
